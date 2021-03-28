@@ -1,0 +1,75 @@
+1.font-size
+2.font-family  font.google.com
+3.font-style
+4.font-weight
+5.color colorzilla.com
+6.background
+
+7.text-align
+8.text-decoration
+9.text-indent
+10.text-transform
+11.text-shadow: x y color;
+12.letter-spacing
+13.line-height
+14.word-spacing
+
+15.Emoji = unicode-table.com
+
+16.margin:top right bottom left/top&bottom right&left
+17.padding:top right bottom left/top&bottom right&left
+
+18.border:width solid/dotted/dhashed color
+19.border-left/right/top/bottom:width solid/dotted/dhashed color
+20.border-radius:...px
+
+21.background-color
+22.background-image:url(....)
+23.background-repeat:no-repeat/repeatX/repeatY
+24.background-position:top-right/left bottom
+25.backgrount-attachment:fixed
+26.background-size:cover
+27.background: color image repeat position attachment;
+
+28.display:block/inline/inline-block
+29.max-width:...px;
+30.color : linear/radial-gradiant(to left/to-circle,red,green,blue)
+31.box-sizing:bo9rder-box
+32.opacity:0-1
+33.overflow:visible/hidden/scroll/auto
+34.visibility:visible/hidden
+35.z-index:1/2/3/....
+36.display:block/inline-block/none
+38.hover
+
+39.border-collapse:collapse
+40.nth-child(even/odd)
+41.first/last-child:css value;
+
+42.text-align:left/right/center/justify;
+43.vertical-align:top/bottom/middle;
+
+44.input[type=text]{   }
+45.transition:width duration/1s ease-in-out
+46.resize:none;
+47.cursor:ponter/chrosehair;
+
+48.hover
+49.active
+50.focus
+51.nth-child(odd/even/1,2,3,2n+1)
+52.selector::after/before/first-letter/first-line
+53.first/last of type
+54.selection/before/after::{css,property:value}
+
+55.list-style-type:circle/none...
+56.list-style-position:insilde/../../..
+57.list-style-image:url()
+58.list-style:url position type
+59.content:.....;
+
+60.float:left/right;
+61.clear:both;
+
+62.text-decoration:none/underline/overline;
+63.margin:0 auto

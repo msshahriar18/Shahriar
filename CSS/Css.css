@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #f3f3f3;
+    font-family: 'Roboto', sans-serif;
+}
+.div-clear{
+    clear: both;
+}
+.container{
+    background-color: rgb(212, 227, 255);
+    max-width: 1270px;
+    margin: 0 auto;
+    padding: 20px;
+}
+header img{
+    height: 120px;
+    width: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.profile-title{
+    float: left;
+    padding: 20px;
+}
+.profile-title h1{
+    text-shadow: rgb(228, 239, 255) 5px 5px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: rgb(17, 101, 255);
+    font-weight: 500;
+}
+.header-contact{
+    float: right;
+    padding-top: 30px;
+}
+.header-contact a{
+    color:rgb(17, 101, 255);
+    text-decoration: none;
+    font-weight: bold; 
+}
+.header-contact a:hover {
+  text-decoration: underline;
+  color: tomato;
+}
+header hr{
+    border: 3px solid black;
+    border-bottom: 0px;
+    width: 100%;
+    margin: 20px auto;
+}
+
+
+
+
+#personal-information h2{
+    float: left;
+    width: 30%;
+}
+.per-in-details{
+    width: 70%;
+    float: left;
+    text-align: justify;
+}
+hr{
+    width: 100%;
+    margin: 20px auto;
+    border: 1px solid black;
+    border-bottom: 0px;
+}
+
+
+
+#work-section h2{
+    float: left;
+    width: 30%;
+}
+.per-in-details{
+    width: 70%;
+    float: left;
+    text-align: justify;
+}
+#work-section hr{
+    width: 100%;
+    margin: 20px auto;
+    border: 1px solid black;
+    border-bottom: 0px;
+}
